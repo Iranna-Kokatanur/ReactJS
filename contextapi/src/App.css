@@ -1,0 +1,14 @@
+.CompA{
+  background-color: red;
+  height: 100vh;
+  padding: 20px;
+}
+
+.CompB {
+  background-color: blue;
+  padding: 10px;
+}
+
+.CompC {
+  background-color: white;
+}
