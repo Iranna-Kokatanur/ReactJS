@@ -1,0 +1,34 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+
+.App {
+  text-align: center;
+  background-color: black;
+  min-height: 100vh;
+  color: #fff;
+}
+
+.main{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 14px;
+}
+
+.movie{
+  background-color: green;
+  border-radius: 5px;
+  min-height: 70px;
+  padding: 8px;
+  font-weight: bold;
+  text-align: start;
+  margin: 20px;
+}
+
+.header{
+  background-color: gray;
+  padding: 10px;
+}
